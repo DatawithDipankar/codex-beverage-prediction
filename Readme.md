@@ -151,7 +151,7 @@ streamlit run app.py
 
 This app is deployed on **Streamlit Cloud**.
 
-👉 **Live App:** [your-app-link.streamlit.app](https://your-app-link.streamlit.app)
+👉 **Live App:** [CodeX Beverage: Price Prediction](https://codex-beverage-prediction.streamlit.app/)
 
 ---
 
